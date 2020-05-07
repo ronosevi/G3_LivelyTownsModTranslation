@@ -27,6 +27,6 @@
 **Credits:** Ein großer Dank geht an Yuko, für die Erstellung und Veröffentlichung der LTM.
 
 **Links:**
-- Übersetzungsprojekt Ankündigungs-Thread (TODO)
+- [Übersetzungsprojekt Ankündigungs-Thread](https://forum.worldofplayers.de/forum/threads/1556058-Ank%C3%BCndigung-und-Beta-Release-Gothic-3-Lively-Towns-Mod-%28LTM%29-%C3%9Cbersetzungsprojekt-Deutsch)
 
 Copyright (c) 2020 Ronosevi
