@@ -16,7 +16,7 @@
 - [Gothic 3 Questpaket 4 Update 2](https://www.worldofgothic.de/dl/download_433.htm)
 - [Gothic 3 Questpaket 4 Update 2 Update für Community Patch v1.75](https://www.worldofgothic.de/dl/download_433.htm)
 - [Gothic 3 Content Mod v3.1 Final](https://www.worldofgothic.de/dl/download_532.htm) (mit oder ohne Consequences) (nach der Installation die Dateien im Gothic 3\Data-Ordner kontrollieren, falls Lücken in der Nummerierung bestehen die Dateien manuell umbenennen, sodass keine Lücken mehr vorhanden sind)
-- [Gothic 3 ModStarter (MDS) v1.2.0.1](https://www.worldofgothic.de/dl/download_391.htm)
+- [Gothic 3 ModStarter (MDS) v1.2.0.1](https://www.worldofgothic.de/dl/download_391.htm) (nicht wundern, die Integration dauert eine Weile, bei mir ca. 10-20 Min., ebenso nicht wundern, wenn beim ersten Spielstart nach der Integration eine Meldung wegen dem Shader.Cache kommt, das ist normal, einfach bestätigen, dann wird der neu aufgebaut, dauert ebenfalls eine Weile, bei mir ca. 5-10 Min.)
     - [Gothic 3 Die Rückkehr von General Lee 1.3c (optional)](https://www.worldofgothic.de/dl/download_609.htm) (es gibt zwei Versionen, eine mit Consequences und eine ohne Consequences)
     - [Gothic 3 LTM v0.29 DE](https://1drv.ms/u/s!AsHLxQDl7eont9ALekFyZBgavgF5CQ?e=8FN8UV) (enthält Logic-Content-Trophys-Mod (LCTM) v1.2.5 und ReBalanceMod v2.0, sowie teilw. Repair Mod) (falls mit Consequences ebenfalls den LivelyTownsMod&ConsequencesPatch installieren)
     - Gothic 3 Community Patch v1.75.14 Int. Update Pack v1.04.11 SupportMod (nach der Installation des Update Packs im Gothic 3\UpdatePack-Ordner vorhanden)
